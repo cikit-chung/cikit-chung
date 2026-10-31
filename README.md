@@ -7,7 +7,7 @@
 ## 关于我 About
 
 - 🚀 一人公司经营者，专注技术与设计复合型服务
-- 💻 网络编程：PHP / Laravel / MySQL / CRMEB 微信小程序 / Android APP
+- 💻 网络编程：PHP / Laravel / MySQL / 电商微信小程序 / Android APP
 - 🎨 视觉设计：电商全案、平面设计、品牌视觉
 - 🤖 AI 应用：AI Agent 搭建、多模型 API 接入、数据监控
 - 🍹 产业探索：健康饮品品牌（白桦树深加工）、新消费项目孵化
